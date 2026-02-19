@@ -1,2 +1,4 @@
 .trlc-mujoco/
+.trlc-dk1-mujoco/
 MUJOCO_LOG.TXT
+*.egg-info/

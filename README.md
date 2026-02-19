@@ -7,8 +7,8 @@ MuJoCo simulation of the TRLC DK-1 Follower robot from its URDF description.
 Create and activate a local virtual environment, then install the package in editable mode:
 
 ```bash
-python -m venv .trlc-mujoco
-source .trlc-mujoco/bin/activate
+python -m venv .trlc-dk1-mujoco
+source .trlc-dk1-mujoco/bin/activate
 pip install -e .
 ```
 
